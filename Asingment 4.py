@@ -3,6 +3,7 @@
 PySpark Vessel Route Analysis
 Author: Aurimas Bzeskis
 Date: May 2025
+Details: created on MACOS, Phycharm IDE
 
 The analysis involves:
 1. Loading and cleaning AIS data
